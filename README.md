@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Development and Data Structures**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amitmamgai2k/MyPortFolio](https://github.com/amitmamgai2k/MyPortFolio)
+- 👨‍💻 All of my projects are available at [https://github.com/amitmamgai2k/MyPortFolio](https://my-port-folio-8fzk.vercel.app/)
 
 - 📫 How to reach me **amitmamgai2k@gmail.com**
 
