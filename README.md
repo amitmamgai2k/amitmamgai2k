@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitmamgai2k&label=Profile%20views&color=0e75b6&style=flat" alt="amitmamgai2k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitmamgai2k" alt="amitmamgai2k" /></a> </p>
 
-- 🔭 I’m currently working on [Drivo Rides](https://github.com/amitmamgai2k/Drivo-Rides)
 
-- 🌱 I’m currently learning **Web Development, App Development & Data Structures**
+- 🔭 I’m currently working on [Travel Buddy](https://github.com/amitmamgai2k/CantiLever/tree/main/TravelBuddy)
+
+- 🌱 I’m currently learning **Full Stack Web Development Using MERN STACK, App Development Using React NATIVE & Data Structures in C++**
 
 - 👨‍💻 All of my projects are available at [https://my-port-folio-8fzk.vercel.app/](https://my-port-folio-8fzk.vercel.app/)
 
-- 📫 How to reach me **amitmamgai2k@gmail.com**
+- 📫 How to reach me **amit.mamgai2002@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-0ThZrOc7EiQRXJ4RCKS1we-Y7YTJ2QJ/view](https://drive.google.com/file/d/1-0ThZrOc7EiQRXJ4RCKS1we-Y7YTJ2QJ/view)
 
