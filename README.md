@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **amit.mamgai2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-0ThZrOc7EiQRXJ4RCKS1we-Y7YTJ2QJ/view](https://drive.google.com/file/d/1-0ThZrOc7EiQRXJ4RCKS1we-Y7YTJ2QJ/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1B8CNmdzISlKIYwUC2jT39YpMG9xt0aVl/view?usp=sharing]
 
 - ⚡ Fun fact **I Believe In Myself**
 
