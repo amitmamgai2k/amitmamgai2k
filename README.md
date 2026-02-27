@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Travel Buddy](https://github.com/amitmamgai2k/CantiLever/tree/main/TravelBuddy)
+- 🔭 I’m currently working on Freelance Projects)
 
 - 🌱 I’m currently learning **Full Stack Web Development Using MERN STACK, App Development Using React NATIVE & Data Structures in C++**
 
