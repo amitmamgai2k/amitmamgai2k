@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on Freelance Projects)
+- 🔭 I’m currently working on Freelance Projects
 
 - 🌱 I’m currently learning **Full Stack Web Development Using MERN STACK, App Development Using React NATIVE & Data Structures in C++**
 
