@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-amit--mamgai-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/amitmamgai2k" target="_blank">
+  <a href="https://www.instagram.com/ai.reviewbyamit/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@amitmamgai2k-E1306C?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
